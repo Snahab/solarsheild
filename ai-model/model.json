@@ -1,0 +1,5 @@
+{
+  "intercept": 0.5,
+  "bill_coef": 0.002,
+  "roof_coef": 0.0015
+}
