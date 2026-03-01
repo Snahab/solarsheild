@@ -2,7 +2,7 @@
 
 AI-Powered Solar Planning & Performance Intelligence Platform
 
-SolarShield is an intelligent solar analysis platform developed for a hackathon and educational purposes. It helps homeowners and investors evaluate solar feasibility, financial returns, environmental impact, and real-time system performance using Machine Learning and AI.
+SolarShield is an intelligent solar analysis platform developed for a hackathon and educational purposes. It helps owners, residentials and investors evaluate solar feasibility, financial returns, environmental impact, and real-time system performance using Machine Learning and AI.
 
 ---
 
@@ -180,3 +180,4 @@ This project was developed for a **Hackathon** and for **educational purposes** 
 # 📜 License
 
 This project is built for educational, research, and portfolio purposes only.
+
